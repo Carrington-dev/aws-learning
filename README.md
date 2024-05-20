@@ -30,3 +30,19 @@ This exam requires sound knowledge of ML concepts. It is very different from oth
 The lack of hands-on practice on some of the expensive services covered in this exam (Direct Connect, Transit Gateway, etc.) makes it hard to grasp all concepts. Additionally, the exam was updated a few months back, taking the difficulty to another level altogether and making this one the toughest nut to crack.
 
 For anyone considering AWS certifications for the first time, this article might help.
+
+
+## Here is my ranking from easiest to hardest:
+
+1. Cloud Practitioner
+2. Developer Associate
+3. Solutions Architect Associate
+4. SysOps Administrator Associate
+5. Security Specialty
+6. SAP on AWS Specialty
+7. Database Specialty
+8. DevOps Engineer Professional
+9. Data Analytics Specialty
+10. Solutions Architect Professional
+11. Advanced Networking Specialty
+12. Machine Learning Specialty
